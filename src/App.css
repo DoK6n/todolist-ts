@@ -1,0 +1,17 @@
+body {
+  background: #e9ecef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.App {
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  padding: 20px;
+  width: 50vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
