@@ -29,8 +29,6 @@ https://dok6n.github.io/todolist-ts/
 - 할일 삭제 하기
 - ~~할일 내용 수정~~
 - ~~Drag & Drop으로 목록 위치 변경~~
-- ~~FireBase 연동~~
-  - ~~구글 로그인~~
 
 
 
