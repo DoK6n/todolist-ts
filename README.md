@@ -27,8 +27,6 @@ https://dok6n.github.io/todolist-ts/
 - 할일 생성 하기
 - 할일 완료 하기
 - 할일 삭제 하기
-- ~~할일 내용 수정~~
-- ~~Drag & Drop으로 목록 위치 변경~~
 
 
 
